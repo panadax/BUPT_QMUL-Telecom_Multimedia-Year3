@@ -37,7 +37,7 @@ All compulsory and specialised elective courses in **2018/19**：
 
 -  Other recommended materials for this courses are also welcomed.
 <br /><br /> **BUT**: ALL materials related to coursework are **NOT** recommended to be uploaded here!
-<br /><br /> Due to the QM regulations, <font color=#FF0000>PLAGIARISM is PROHIBITED</font>.
+<br /><br /> Due to the QM regulations,**PLAGIARISM is PROHIBITED**:bangbang:
 <br /><br /> You may read the policy documents online at http://www.arcs.qmul.ac.uk/students/student-appeals/assessment-offences/index.html
 
 ## Some Facts about Year 3: 
