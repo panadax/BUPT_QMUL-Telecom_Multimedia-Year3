@@ -1,6 +1,8 @@
+# Introduction
+
 Lecturer(s): Dr Yuanwei Liu, Dr Yan (Cindy) Sun
 
-Summary:
+*[@panadax] 通信原理的先修课，对通信有大概的认识。*
 
 • equip participants with a basic understanding of modern digital communications;
 
@@ -14,7 +16,7 @@ The module provides a broad coverage of the principles of modern telecommunicati
 
 
 
-Syllabus: 
+# Syllabus: 
 
 Modern networks, particularly mobile including architecture, high-level properties.
 
@@ -35,7 +37,7 @@ Multiple access techniques, especially OFDMA.
 Radio prorogations and network architecture including multipath effects, cellular concept, diversity and handover.
 
 
-Learning Outcomes in Subject Specific Skills:
+# Learning Outcomes in Subject Specific Skills:
 
 • Understand the fundamental principles of fundamental aspects of telecommunications
 
