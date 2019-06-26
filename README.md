@@ -7,7 +7,7 @@ This repository is about the course resources in Year 3 for `Telecommunication w
 ## Why This?
 I am devoted to establishing a platform to share resources which can help not make detours when previewing and reviewing courses.
 <br /><br /> Therefore, I sincerely hope you who have other useful resources could share yours here.
-<br /><br /> Plus, I really hope you can make good use of it, and **DO NOT** provide this with printing shop like "SHUGUANG(曙光)".
+<br /><br /> Plus, I also hope you can make good use of it, and **DO NOT** provide this with printing shop like "SHUGUANG"(曙光打印店).
 <br /><br /> Becasue this project aims to be shared and nonprofit. Any commercial interests will violate original intention of this project.
 ## Course Lists：
 All compulsory and specialised elective courses in **2018/19**：
