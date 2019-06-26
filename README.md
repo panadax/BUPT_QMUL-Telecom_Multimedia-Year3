@@ -31,7 +31,7 @@ All official resources given by instructors: lecture notes, past exam papers and
 <br /> You may read the policy documents online at http://www.arcs.qmul.ac.uk/students/student-appeals/assessment-offences/index.html
 
 ## Some Facts about Year 3: 
-<br /> You start to learn at the BUPT main campus.
+You start to learn at the BUPT main campus.
 <br /> You have around 6 QM modules conducted in English using the block-teaching style.
 <br /> You will meet around 10 new QM lecturers delivering lectures.
 <br /> Stronger emphasis in individual coursework and also group-based coursework.
