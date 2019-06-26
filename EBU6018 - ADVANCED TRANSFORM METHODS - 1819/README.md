@@ -9,10 +9,10 @@ However the application of the FT is limited to stationary signals, since time i
 It then introduces time-frequency analysis techniques and explores how they are suitable for different signal and image processing applications such as filtering and compression. 
 These techniques include the Short-Time Fourier Transform (STFT), Discrete Cosine Transform (DCT), Wavelet Transform (WT), Wigner-Ville Distribution (WVD) and  Karhunen-Loeve Transform (KLT).
 
-#Aims
+# Aims
 The broad aims of this module are to introduce a variety of transforms and introduce how these may be applied to compression and other applications related to signal, image, video and audio processing.
 
-Syllabus
+# Syllabus
 
 Linear Algebra
 
