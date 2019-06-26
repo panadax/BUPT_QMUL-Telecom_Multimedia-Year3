@@ -1,5 +1,5 @@
 # BUPT_QMUL-Telecom_Multimedia-Year3 
-BUPT Joint Programme with QMUL (1819)
+BUPT Joint Programme with QMUL (2018/19)
 
 ## Introduction 
 This repository is about the course resources in Year 3 for `Telecommunication with Management(Multimedia)` students.
@@ -18,7 +18,7 @@ All compulsory and specialised elective courses in **2018/19**：
 - [x] `EBU5304` Software Engineering (Common)
 - [x] `EBU5305` Interactive Media Design and Production (Multimedia)
 - [x] `EBU5403` Internet Protocols (Common)
-- [ ] `EBU5405` 3D Graphics Programming Tools (Multimedia)
+- [x] `EBU5405` 3D Graphics Programming Tools (Multimedia)
 - [x] `EBU6018` Advanced Transform Methods (Multimedia)
 - [ ] `EBU732U` Digital Broadcasting (CANCELLED)
 
