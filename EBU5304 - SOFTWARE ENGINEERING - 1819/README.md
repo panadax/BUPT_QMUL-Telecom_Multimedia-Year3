@@ -27,13 +27,13 @@ Devise a requirements specification. Build a system using the modern software de
 Test the system using automated testing methods.
 
 
-Transferable Skills
+# Transferable Skills
 
 By the end of the module the student will be able to:
 
 Manage their time effectively as part of a group. Communicate effectively within the team.
 
-Reading List
+# Reading List
 
 0.	Software Engineering" by Ian Sommerville (9th edition); Pearson 2011; ISBN 0137053460. [Must Buy]	
 
