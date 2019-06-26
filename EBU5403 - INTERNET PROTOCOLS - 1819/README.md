@@ -12,7 +12,7 @@ The aim is to provide an in-depth knowledge of contemporary and widely-deployed 
 # Syllabus
 INTERNET PROTOCOLS: internetworking, introduction to local area networks and data link layer (layer 2), Ethernet, wireless, Layer 3 (IP) protocols, Layer 2 / Layer 3 Address Usage, Internetworking with IP Routers, Layer 4 (transport) protocols, Reliable Transport and Label switching protocols.
 
-Learning Outcomes in Subject Specific Skills
+# Learning Outcomes in Subject Specific Skills
 
 •	Explain the protocols that provide the Internet infrastructure, their role, how they operate and a number of implementation details.
 
@@ -20,9 +20,7 @@ Learning Outcomes in Subject Specific Skills
 
 • Perform basic configuration and fault diagnosis in an Interior Gateway Routed environment using IOS-like scripts and utilities such as Ping and TraceRoute
 
-# Transferable Skills
-
-Undertake fault diagnosis based on observations (required for the lab experiment).
+• Undertake fault diagnosis based on observations (required for the lab experiment).
 
 # Reading List
 Computer Networking: A Top Down Approach, 7th edition, Jim Kurose, Keith Ross, Pearson/Addison Wesley, April 2016	Must Buy
