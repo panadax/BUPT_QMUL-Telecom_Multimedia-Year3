@@ -29,12 +29,15 @@ All compulsory and specialised elective courses in **2018/19**：
 - [ ] `3212120112` 电信市场竞争与规制 （中方公共专业选修课）--未选，暂无资料，欢迎补充。
 
 ## What Could be Here?
-All official resources probvided by instructors: lecture notes, past exam papers and other useful resources.
-<br /><br /> Reference text books in Chinese or English.
-<br /><br /> All materials for exam summarized by yourself.
-<br /><br /> Other recommended materials for this courses are also welcomed.
-<br /><br /> **BUT**: ALL materials related to coursework **MUST NOT** be uploaded here!
-<br /><br /> Due to the QMUL regulations, **PLAGIARISM is PROHIBITED**.
+-  All official resources probvided by instructors: lecture notes, past exam papers and other useful resources.
+
+-  Reference text books in Chinese or English.
+
+-  All materials for exam summarized by yourself.
+
+-  Other recommended materials for this courses are also welcomed.
+<br /><br /> **BUT**: ALL materials related to coursework are **NOT** recommended to be uploaded here!
+<br /><br /> Due to the QM regulations, <font color=#FF0000>PLAGIARISM is PROHIBITED</font>.
 <br /><br /> You may read the policy documents online at http://www.arcs.qmul.ac.uk/students/student-appeals/assessment-offences/index.html
 
 ## Some Facts about Year 3: 
