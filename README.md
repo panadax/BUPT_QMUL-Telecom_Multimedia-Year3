@@ -7,7 +7,8 @@ This repository is about the course resources in Year 3 for `Telecommunication w
 ## Why This?
 I am devoted to establishing a platform to share resources which can help not make detours when previewing and reviewing courses.
 <br /> Therefore, I sincerely hope you who have other useful resources could share yours here.
-
+<br /> Plus, I really hope you can make good use of it, and **DO NOT** provide this with printing shop like "SHUGUANG(曙光)".
+<br /> Becasue this project aims to be shared and nonprofit. Any commercial interests will violate original intention of this project.
 ## Course Lists：
 All compulsory course and specialised elective courses：
 <br /> 
@@ -44,6 +45,7 @@ PAN Jinglun
 <br /> If you think it does help you, please share it with friends ~~and star it~~.
 <br /> If you have some other useful files, just share them. Your name will be added here(Contributor List).
 <br /> Any questions about this project, you can submit in the issue area or send an email to me.
+
 
 ## Contributor List
 @panadax
