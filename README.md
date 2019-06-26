@@ -62,7 +62,7 @@ PAN Jinglun
 <br /><br /> 
 <br /> <br />P.S. 
 <br /><br /> I have noticed that you have a new course called "Multimedia Fundamental" taught by Dr. Marie-Luce Bourguet in 2019/20.
-<br /><br /> So I appreciate you could share resources of this course here.
+<br /><br /> So I would appreciate you could share resources of this course here.
 
 
 
