@@ -10,7 +10,7 @@ I am devoted to establishing a platform to share resources which can help not ma
 <br /><br /> Plus, I really hope you can make good use of it, and **DO NOT** provide this with printing shop like "SHUGUANG(曙光)".
 <br /><br /> Becasue this project aims to be shared and nonprofit. Any commercial interests will violate original intention of this project.
 ## Course Lists：
-All compulsory course and specialised elective courses：
+All compulsory course and specialised elective courses in **2018/19**：
 <br /> 
 - [x] `BBC4210` Electric and Magnetic Fields (Common)
 - [ ] `BBU6404` Internet Applications (Common)
@@ -45,6 +45,10 @@ PAN Jinglun
 <br /><br /> If you think it does help you, please share it with friends ~~and star it~~.
 <br /><br /> If you have some other useful files, just share them. Your name will be added here(Contributor List).
 <br /><br /> Any questions about this project, you can submit in the issue area or send an email to me.
+
+<br /> P.S. I have noticed that you have a new course called "Multimedia Fundamental" taught by Dr. Marie-Luce Bourguet.
+<br /> So I appreciate you could share resources of this course here.
+<br /> Good luck in Year 3!
 
 
 ## Contributor List
