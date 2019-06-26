@@ -2,7 +2,9 @@ The aim of this course is to introduce the basic laws of electromagnetism and th
 
 It is based around the development and use of Maxwell's equations in integral form. 
 
-*[@panadax](My) Lecturer: Prof. Yaojun Qiao*
+You could know more about this course in the first slides named "Chpt.0 Introduction 2018.3.5 V1.0".
+
+*[@panadax] (My) Lecturer: Prof. Yaojun Qiao*
 
 *This course is prerequisite course for BBU5366 Microwave and Optical Transmission (Wireless).*
 
