@@ -21,6 +21,11 @@ All compulsory and specialised elective courses in **2018/19**：
 - [x] `EBU5405` 3D Graphics Programming Tools (Multimedia)
 - [x] `EBU6018` Advanced Transform Methods (Multimedia)
 - [x] `EBU732U` Digital Broadcasting (Multimedia& CANCELLED)
+- [x] `3112100141` 通信原理 （中方公共必修课）
+- [x] `3112100430` 移动互联网 （中方公共专业选修课）
+- [x] `3112100780` Web搜索技术 （中方公共专业选修课）
+- [ ] `3132111060` 人工智能原理 （中方公共专业选修课）--未选，暂无资料，欢迎补充。
+- [ ] `3212120112` 电信市场竞争与规制 （中方公共专业选修课）--未选，暂无资料，欢迎补充。
 
 ## What Could be Here: 
 All official resources given by instructors: lecture notes, past exam papers and other useful resources.
@@ -47,8 +52,9 @@ PAN Jinglun
 <br /><br /> Any questions about this project, you can submit in the issue area or send an email to me.
 <br /><br /> Good luck in Year 3!
 <br /><br /> 
-<br /> <br />P.S. I have noticed that you have a new course called "Multimedia Fundamental" taught by Dr. Marie-Luce Bourguet in 2019/20.
-<br /> <br />So I appreciate you could share resources of this course here.
+<br /> <br />P.S. 
+<br /><br /> I have noticed that you have a new course called "Multimedia Fundamental" taught by Dr. Marie-Luce Bourguet in 2019/20.
+<br /><br /> So I appreciate you could share resources of this course here.
 
 
 
