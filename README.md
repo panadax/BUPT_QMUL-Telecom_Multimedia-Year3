@@ -4,7 +4,7 @@ BUPT Joint Programme with QMUL (1819)
 ## Introduction 
 This repository is about the course resources in Year 3 for `Telecommunication with Management(Multimedia)` students.
 
-## Why this?
+## Why This?
 I am devoted to establishing a platform to share resources which can help not make detours when previewing and reviewing courses.
 <br /> Therefore, I sincerely hope you who have other useful resources could share yours here.
 
@@ -21,7 +21,7 @@ All compulsory course and specialised elective courses：
 - [x] `EBU6018` Advanced Transform Methods (Multimedia)
 - [ ] `EBU732U` Digital Broadcasting (CANCELLED)
 
-## What could be here: 
+## What Could be Here: 
 All official resources given by instructors: lecture notes, past exam papers and other useful resources.
 <br /> Reference text books in Chinese or English.
 <br /> All summarized materials for exam.
@@ -37,7 +37,7 @@ You start to learn at the BUPT main campus.
 <br /> Stronger emphasis in individual coursework and also group-based coursework.
 <br /> You start to think (and plan) about graduation.
 
-## About the initiator 
+## About the Initiator 
 PAN Jinglun
 <br /> panadax@outlook.com
 <br /> 
