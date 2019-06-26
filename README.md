@@ -1,14 +1,15 @@
 # BUPT_QMUL-Telecom_Multimedia-Year3 
 BUPT Joint Programme with QMUL (2018/19)
 
-## Introduction 
+## Introduction:
 This repository is about the course resources in Year 3 for `Telecommunication with Management(Multimedia)` students.
 
 ## Why This?
-I am devoted to establishing a platform to share resources which can help not make detours when previewing and reviewing courses.
-<br /><br /> Therefore, I sincerely hope you who have other useful resources could share yours here.
-<br /><br /> Plus, I also hope you can make good use of it, and **DO NOT** provide this with printing shop like "SHUGUANG"(曙光打印店).
-<br /><br /> Becasue this project aims to be shared and nonprofit. Any commercial interests will violate original intention of this project.
+We are devoted to establishing a platform to share resources which can help not make detours when previewing and reviewing courses.
+<br /><br /> In addition, inspired by [清华大学计算机系课程攻略](https://github.com/Salensoft/thu-cst-cracker), the initiator choose github platform. 
+<br /><br /> Therefore, we sincerely hope you who have other useful resources could share yours here.
+<br /><br /> Plus, we also hope you who are going to Year 3 can make good use of it, and **DO NOT** provide this with printing shop like "SHUGUANG"(曙光打印店).
+<br /><br /> Becasue this project aims to be **shared and nonprofit**. Any commercial interests will violate original intention of our project.
 ## Course Lists：
 All compulsory and specialised elective courses in **2018/19**：
 <br /> 
@@ -27,13 +28,13 @@ All compulsory and specialised elective courses in **2018/19**：
 - [ ] `3132111060` 人工智能原理 （中方公共专业选修课）--未选，暂无资料，欢迎补充。
 - [ ] `3212120112` 电信市场竞争与规制 （中方公共专业选修课）--未选，暂无资料，欢迎补充。
 
-## What Could be Here: 
-All official resources given by instructors: lecture notes, past exam papers and other useful resources.
+## What Could be Here?
+All official resources probvided by instructors: lecture notes, past exam papers and other useful resources.
 <br /><br /> Reference text books in Chinese or English.
-<br /><br /> All summarized materials for exam.
+<br /><br /> All materials for exam summarized by yourself.
 <br /><br /> Other recommended materials for this courses are also welcomed.
 <br /><br /> **BUT**: ALL materials related to coursework **MUST NOT** be uploaded here!
-<br /><br /> Due to the Quuen Mary regulations, **PLAGIARISM is PROHIBITED**.
+<br /><br /> Due to the QMUL regulations, **PLAGIARISM is PROHIBITED**.
 <br /><br /> You may read the policy documents online at http://www.arcs.qmul.ac.uk/students/student-appeals/assessment-offences/index.html
 
 ## Some Facts about Year 3: 
@@ -43,7 +44,7 @@ You start to learn at the BUPT main campus.
 <br /><br /> Stronger emphasis in individual coursework and also group-based coursework.
 <br /><br /> You start to think (and plan) about graduation.
 
-## About the Initiator 
+## About the Initiator: 
 PAN Jinglun
 <br /><br /> Year-4 Student 
 <br /><br /> E-mail: panadax@outlook.com
@@ -59,5 +60,5 @@ PAN Jinglun
 
 
 
-## Contributor List
+## Contributor List:(Sort by the commit time)
 @panadax
