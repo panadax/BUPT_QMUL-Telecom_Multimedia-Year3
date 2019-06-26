@@ -10,7 +10,7 @@ I am devoted to establishing a platform to share resources which can help not ma
 <br /><br /> Plus, I really hope you can make good use of it, and **DO NOT** provide this with printing shop like "SHUGUANG(曙光)".
 <br /><br /> Becasue this project aims to be shared and nonprofit. Any commercial interests will violate original intention of this project.
 ## Course Lists：
-All compulsory course and specialised elective courses in **2018/19**：
+All compulsory and specialised elective courses in **2018/19**：
 <br /> 
 - [x] `BBC4210` Electric and Magnetic Fields (Common)
 - [x] `BBU6404` Internet Applications (Common)
