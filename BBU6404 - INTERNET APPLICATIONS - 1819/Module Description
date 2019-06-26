@@ -2,10 +2,11 @@ Basic Information
 
 Lecturer: MA Yan, SHI Yan, CHENG Li, HUANG Xiaohong 
 
-Description
-Internet Application Lecture + Laboratory 
+Form: Internet Application Lecture + Laboratory 
+
 
 OUTLINE (Valuable for your review)
+
 1.- Background (Applications on ARPANET) 
 2.- Network Layered Architecture 
 3.- Network Programming 
@@ -42,7 +43,9 @@ Textbook
 【 ISBN 】9787121264832 
 【页   码】524
 
+
 Recommended - Programming and Implementation: 
-        “UNIX Network Programming, Volume 1, 3rd Edition”, W. Richard Stevens/Bill Fenner/Andrew M. Rudoff. 2003. Addison-Wesley Professional, ISBN 0131411551 
-        “Internetworking with TCP/IP - Volume 1, 6th Edition”, Douglas Comer. 2013. Pearson, ISBN 013608530X 
-        “Internetworking with TCP/IP - Volume 2, 3rd Edition”, Douglas Comer & David Stevens. 1998. Pearson, ISBN 0139738436
+
+“UNIX Network Programming, Volume 1, 3rd Edition”, W. Richard Stevens/Bill Fenner/Andrew M. Rudoff. 2003. Addison-Wesley Professional, ISBN 0131411551 
+“Internetworking with TCP/IP - Volume 1, 6th Edition”, Douglas Comer. 2013. Pearson, ISBN 013608530X 
+“Internetworking with TCP/IP - Volume 2, 3rd Edition”, Douglas Comer & David Stevens. 1998. Pearson, ISBN 0139738436
