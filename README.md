@@ -45,7 +45,8 @@ You start to learn at the BUPT main campus.
 
 ## About the Initiator 
 PAN Jinglun
-<br /><br /> panadax@outlook.com
+<br /><br /> Year-4 Student 
+<br /><br /> E-mail: panadax@outlook.com
 <br /> 
 <br /><br /> If you think it does help you, please share it with friends ~~and star it~~.
 <br /><br /> If you have some other useful files, just share them. Your name will be added here(Contributor List).
