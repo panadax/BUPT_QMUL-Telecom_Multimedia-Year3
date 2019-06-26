@@ -6,7 +6,7 @@ This repository is about the course resources in Year 3 for `Telecommunication w
 
 ## Why This?
 We are devoted to establishing a platform to share resources which can help not make detours when previewing and reviewing courses.
-<br /><br /> In addition, inspired by [清华大学计算机系课程攻略](https://github.com/Salensoft/thu-cst-cracker), the initiator choose github platform. 
+<br /><br /> In addition, inspired by [清华大学计算机系课程攻略](https://github.com/Salensoft/thu-cst-cracker), the initiator chooses github platform. 
 <br /><br /> Therefore, we sincerely hope you who have other useful resources could share yours here.
 <br /><br /> Plus, we also hope you who are going to Year 3 can make good use of it, and **DO NOT** provide this with printing shop like "SHUGUANG"(曙光打印店).
 <br /><br /> Becasue this project aims to be **shared and nonprofit**. Any commercial interests will violate original intention of our project.
