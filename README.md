@@ -47,13 +47,16 @@ You start to learn at the BUPT main campus.
 <br /><br /> Stronger emphasis in individual coursework and also group-based coursework.
 <br /><br /> You start to think (and plan) about graduation.
 
-## About the Initiator: 
+## About Initiator: 
 PAN Jinglun
 <br /><br /> (pre) Year-4 Student  
 <br /><br /> E-mail: panadax@bupt.edu.cn
 <br /> 
 <br /><br /> If you think it does help you, just share it with your friends ~~and star it~~. That would be a great encouragement for us.
-<br /><br /> If you have some other useful files, just share them. Your name will be added here(Contributor List).
+<br /><br /> If you have some other useful materials, just share them. Your name will be added here(Contributor List).
+<br /><br /> This platform is not just for the students who are major in Telecommunication with Management(Multimedia). Some common courses are shared in International School in BUPT. 
+<br /><br /> Moreover, it's not exclusive right that only Year-4 or maybe elder students could modify this project. If there are something new in class, just replace and update with latest materials.
+<br /><br /> Inheritance is my earnest hope!
 <br /><br /> Any questions about this project, you can submit in the issue area or send an email to me.
 <br /><br /> Good luck in Year 3!
 <br /><br /> 
