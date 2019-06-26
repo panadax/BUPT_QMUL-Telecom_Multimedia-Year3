@@ -37,7 +37,7 @@ You start to learn at the BUPT main campus.
 <br /> Stronger emphasis in individual coursework and also group-based coursework.
 <br /> You start to think (and plan) about graduation.
 
-# About the initiator 
+## About the initiator 
 PAN Jinglun
 <br /> panadax@outlook.com
 <br /> 
@@ -45,5 +45,5 @@ PAN Jinglun
 <br /> If you have some other useful files, just share them. Your name will be added here(Contributor List).
 <br /> Any questions about this project, you can submit in the issue area or send an email to me.
 
-# Contributor List
+## Contributor List
 @panadax
