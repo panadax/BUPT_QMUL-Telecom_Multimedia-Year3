@@ -2,7 +2,7 @@
 
 Lecturer(s): Dr Michael Chai, Dr Richard Clegg, Mr. Adnan Kiani
 
-*[@panadax] BBU6604 互联网应用 先修课，对计算机网络有了自顶向下的了解。
+*[@panadax] BBU6604 互联网应用 先修课，对计算机网络有了自顶向下的了解。*
 
 This course examines the TCP/IP protocol suite from OSI layers 1 through to 4. Particular emphasis is placed on CSMA/CD LAN operation, Internet Protocol including Addressing, Routing and Subnetting and Transmission Control Protocol. The aim is to provide an in-depth knowledge of contemporary and widely-deployed Internet Protocols, providing the student with an insight into their functionality and inter-relationship. The material is sufficient to enable the student to design basic intranet and internet architectures, including both bridged and routed networks. Consideration is also given to different transport layer protocols to provide features not inherently present in the underlying network.
 
