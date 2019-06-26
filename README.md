@@ -20,7 +20,7 @@ All compulsory and specialised elective courses in **2018/19**：
 - [x] `EBU5403` Internet Protocols (Common)
 - [x] `EBU5405` 3D Graphics Programming Tools (Multimedia)
 - [x] `EBU6018` Advanced Transform Methods (Multimedia)
-- [ ] `EBU732U` Digital Broadcasting (CANCELLED)
+- [x] `EBU732U` Digital Broadcasting (Multimedia& CANCELLED)
 
 ## What Could be Here: 
 All official resources given by instructors: lecture notes, past exam papers and other useful resources.
@@ -28,7 +28,7 @@ All official resources given by instructors: lecture notes, past exam papers and
 <br /><br /> All summarized materials for exam.
 <br /><br /> Other recommended materials for this courses are also welcomed.
 <br /><br /> **BUT**: ALL materials related to coursework **MUST NOT** be uploaded here!
-<br /><br /> Due to the QM regulations, **PLAGIARISM** is not allowed.
+<br /><br /> Due to the Quuen Mary regulations, **PLAGIARISM is PROHIBITED**.
 <br /><br /> You may read the policy documents online at http://www.arcs.qmul.ac.uk/students/student-appeals/assessment-offences/index.html
 
 ## Some Facts about Year 3: 
@@ -47,7 +47,7 @@ PAN Jinglun
 <br /><br /> Any questions about this project, you can submit in the issue area or send an email to me.
 <br /><br /> Good luck in Year 3!
 <br /><br /> 
-<br /> <br />P.S. I have noticed that you have a new course called "Multimedia Fundamental" taught by Dr. Marie-Luce Bourguet.
+<br /> <br />P.S. I have noticed that you have a new course called "Multimedia Fundamental" taught by Dr. Marie-Luce Bourguet in 2019/20.
 <br /> <br />So I appreciate you could share resources of this course here.
 
 
