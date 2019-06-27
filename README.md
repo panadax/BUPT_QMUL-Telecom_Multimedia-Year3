@@ -8,7 +8,7 @@ This repository is about the course resources in Year 3 for `Telecommunication w
 We are devoted to establishing a platform to share resources which can help not make detours when previewing and reviewing courses.
 <br /><br /> In addition, inspired by [清华大学计算机系课程攻略](https://github.com/Salensoft/thu-cst-cracker), the initiator chooses github platform. 
 <br /><br /> Therefore, we sincerely hope you who have other useful resources could share yours here.
-<br /><br /> Plus, we also hope you who are going to Year 3 can make good use of it, and **DO NOT** provide this with printing shop like "SHUGUANG"(曙光打印店).
+<br /><br /> Plus, we also hope you who are going to Year 3 can make good use of it, and **DO NOT** offer this to the printing shop like "SHUGUANG"(曙光打印店).
 <br /><br /> Becasue this project aims to be **shared and nonprofit**. Any commercial interests will violate original intention of our project.
 ## Course Lists：
 All compulsory and specialised elective courses in **2018/19**：
@@ -36,7 +36,7 @@ All compulsory and specialised elective courses in **2018/19**：
 -  All materials for exam summarized by yourself.
 
 -  Other recommended materials for this courses are also welcomed.
-<br /><br /> **BUT**: ALL materials related to coursework are **NOT** recommended to be uploaded here!
+<br /><br /> **BUT**: ANY materials related to coursework are **NOT** recommended to be uploaded here!
 <br /><br /> Due to the QM regulations,**PLAGIARISM is PROHIBITED**！
 <br /><br /> You may read the policy documents online at http://www.arcs.qmul.ac.uk/students/student-appeals/assessment-offences/index.html
 
@@ -45,7 +45,7 @@ You start to learn at the BUPT main campus.
 <br /><br /> You have around 6 QM modules conducted in English using the block-teaching style.
 <br /><br /> You will meet around 10 new QM lecturers delivering lectures.
 <br /><br /> Stronger emphasis in individual coursework and also group-based coursework.
-<br /><br /> You start to think (and plan) about graduation.
+<br /><br /> You need to start to think (and plan) about graduation.
 
 ## About Initiator: 
 PAN Jinglun
