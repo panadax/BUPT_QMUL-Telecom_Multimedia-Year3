@@ -66,5 +66,8 @@ PAN Jinglun
 
 
 
-## Contributor List:(Sort by the commit time)
+## Contributor List:
+
+(Sort by the commit time)
+
 @panadax
