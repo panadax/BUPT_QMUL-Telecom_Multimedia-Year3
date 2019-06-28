@@ -3,7 +3,6 @@
 Lecturer(s): Dr Marie-Luce Bourguet
 
 
-# Summary
 This course introduces students to the basics of 3D graphics and to software tools commonly used in the design of virtual environments and games. In particular the course covers:
 3D object modelling, camera models, transformations, lighting, clipping and rasterisation.
 
