@@ -31,7 +31,7 @@ All compulsory and specialised elective courses in **2018/19**：
 ## What Could be Here?
 -  All official resources probvided by instructors: lecture notes, past exam papers and other useful resources.
 
--  Reference text books in Chinese or English.
+-  Reference books in Chinese or English.
 
 -  All materials for exam summarized by yourself.
 
