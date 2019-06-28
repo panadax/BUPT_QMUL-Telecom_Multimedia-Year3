@@ -2,7 +2,7 @@ The aim of this course is to introduce the basic laws of electromagnetism and th
 
 It is based around the development and use of Maxwell's equations in integral form. 
 
-You could know more about this course in the first slides named "Chpt.0 Introduction 2018.3.5 V1.0".
+You could know more about this course in the first slide named "Chpt.0 Introduction 2018.3.5 V1.0.pdf".
 
 *[@panadax] (My) Lecturer: Prof. QIAO Yaojun*
 
