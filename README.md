@@ -46,6 +46,7 @@ You start to learn at the BUPT main campus.
 <br /><br /> You will meet around 10 new QM lecturers delivering lectures.
 <br /><br /> Stronger emphasis in individual coursework and also group-based coursework.
 <br /><br /> You start to think (and plan) about graduation.
+<br /><br /> [These short videos](https://qmplus.qmul.ac.uk/mod/page/view.php?id=359092) will provide an overview of the modules taught by QMUL.
 
 ## About Initiator: 
 PAN Jinglun
