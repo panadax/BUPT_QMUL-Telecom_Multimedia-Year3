@@ -5,11 +5,10 @@ BUPT Joint Programme with QMUL (2018/19)
 This repository is about the course resources in Year 3 for `Telecommunication with Management(Multimedia)` students.
 
 ## Why This?
-We are devoted to establishing a platform to share resources which can help not make detours when previewing and reviewing courses.
-<br /><br /> In addition, inspired by [清华大学计算机系课程攻略](https://github.com/Salensoft/thu-cst-cracker), the initiator chooses github platform. 
-<br /><br /> Therefore, we sincerely hope you who have other useful resources could share them here.
-<br /><br /> Plus, we also hope you who are going to Year 3 can make good use of it, and **DO NOT** offer this to the printing shop like "SHUGUANG"(曙光打印店).
-<br /><br /> Becasue this project aims to be **shared and nonprofit**. Any commercial interests will violate original intention of our project.
+I am devoted to establishing a platform to share resources which can help not make detours when previewing and reviewing courses.
+<br /><br /> Therefore, I sincerely hope you who have other useful resources could share them here.
+<br /><br /> Plus, I also hope you who are going to Year 3 can make good use of it, and **DO NOT** offer this to the printing shop like "SHUGUANG"(曙光打印店).
+<br /><br /> This project aims to be **shared and nonprofit**. Thus, any commercial interests will violate original intention of our project.
 ## Course Lists：
 All compulsory and specialised elective courses in **2018/19**：
 <br /> 
@@ -50,8 +49,8 @@ You start to learn at the BUPT main campus.
 
 ## About Initiator: 
 PAN Jinglun
-<br /><br /> (pre) Year-4 Student  
-<br /><br /> E-mail: panadax@bupt.edu.cn
+<br /><br /> ~~(pre) Year-4 Student~~ Corporate slave @Hikvision
+<br /><br /> E-mail: ~~panadax@bupt.edu.cn~~ panjinglun@hikvsion.com
 <br /> 
 <br /><br /> If you think it does help you, just share it with your friends ~~and star it~~. That would be a great encouragement for us.
 <br /><br /> If you have some other useful materials, just share them. Your user name will be added in the contributor list below.
@@ -62,7 +61,7 @@ PAN Jinglun
 <br /><br /> Good luck in Year 3!
 <br /><br /> 
 <br /> <br />P.S. 
-<br /><br /> I have noticed that you have a new course called "Multimedia Fundamental" taught by Dr. Marie-Luce Bourguet in 2019/20.
+<br /><br /> I have noticed that you have a new course called "Multimedia Fundamental" taught by Dr. Marie-Luce Bourguet from 2019/20.
 <br /><br /> So I would appreciate you could share resources of this course here.
 
 
