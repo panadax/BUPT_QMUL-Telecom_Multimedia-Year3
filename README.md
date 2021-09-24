@@ -49,8 +49,8 @@ You start to learn at the BUPT main campus.
 
 ## About Initiator: 
 PAN Jinglun
-<br /><br /> ~~(pre) Year-4 Student~~ Corporate slave @Hikvision
-<br /><br /> E-mail: ~~panadax@bupt.edu.cn~~ panjinglun@hikvsion.com
+<br /><br /> ~~(pre) Year-4 Student~~ ~~Corporate slave @Hikvision~~ Master student @ Danmarks Tekniske Universitet
+<br /><br /> E-mail: ~~panadax@bupt.edu.cn~~ ~~panjinglun@hikvsion.com~~ s212844@dtu.dk
 <br /> 
 <br /><br /> If you think it does help you, just share it with your friends ~~and star it~~. That would be a great encouragement for us.
 <br /><br /> If you have some other useful materials, just share them. Your user name will be added in the contributor list below.
