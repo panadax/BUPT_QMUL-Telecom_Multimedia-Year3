@@ -14,7 +14,7 @@ All compulsory and specialised elective courses in **2023/24**：
 <br /> 
 - [x] `BBC5210` Electric and Magnetic Fields (Common)
 - [ ] `BBU6404` Internet Applications (Common)
-- [x] `EBU5304` Software Engineering (Common)
+- [ ] `EBU5304` Software Engineering (Common)
 - [ ] `EBU5305` Interactive Media Design and Production (Multimedia)
 - [ ] `EBU6230` Image and Video Processing (Multimedia)
 - [x] `EBU6018` Advanced Transform Methods (Multimedia)
@@ -67,3 +67,5 @@ PAN Jinglun
 (Sort by the commit time)
 
 @panadax
+
+@wuiyoooo
