@@ -9,3 +9,5 @@ You could know more about this course in the first slide named "Chpt.0 Introduct
 *This course is prerequisite course for BBU5366 Microwave and Optical Transmission (Wireless).*
 
 *PPT slides are various according to different lecturer. But it will cover the same topics.*
+
+*[@wuiyoooo] My Lecturer is also Prof. QIAO Yaojun. There is not much changed in slides of 23/24. I uploaded some past term papers.*

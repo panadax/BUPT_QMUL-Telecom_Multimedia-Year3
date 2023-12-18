@@ -1,8 +1,8 @@
 # Introduction
 
-Lecturer(s): Mr Andy Watson
+Lecturer(s): Mr Andy Watson & Dr.Yixuan Zou
 
-*[@panadax] BBU6502 数字信号处理 是这门课的先修课。*
+*[@wuiyoooo] EBU5376 数字信号处理 是这门课的先修课。*
 
 Time /frequency transforms are based on the Fourier Transform (FT), as introduced in Digital Signal Processing. 
 However the application of the FT is limited to stationary signals, since time information in the time domain is lost in the frequency domain. This module revises the FT, linear algebra, principal component analysis (PCA), introduces non-stationary signals and investigates methods of retaining the time information in the transform. 
