@@ -2,7 +2,7 @@
 BUPT Joint Programme with QMUL (2023/24)
 
 ## Introduction:
-This repository is about the course resources in Year 3 for `Telecommunication with Management(Multimedia)` students, forked by the repo of panadax.
+This repository is about the course resources in Year 3 for `Telecommunication with Management(Multimedia)` students, forked by the repo of panadax. It will also be of use for the students in `Electronic Information Engineering` because of  the course similarity of the two majors.
 
 ## Why This?
 I am devoted to establishing a platform to share resources which can help not make detours when previewing and reviewing courses.
@@ -20,8 +20,8 @@ All compulsory and specialised elective courses in **2023/24**：
 - [x] `EBU6018` Advanced Transform Methods (Multimedia)
 - [x] `BBU6302` Principles of Telecommunication Systems (Common)
 - [x] `CBU5201`	Machine Learning (Common)
-- [ ] `3112100170` 通信原理II （中方公共专业选修课）
-- [ ] `3212100010` 市场营销学 （中方公共专业选修课）
+- [ ] `3112100170` 通信原理II （中方专业选修课）
+- [ ] `3212100010` 市场营销学 （中方专业选修课）
 
 ## What Could be Here?
 -  All official resources probvided by instructors: lecture notes, **past exam papers(greatly encouraged)** and other useful resources.
@@ -56,9 +56,7 @@ PAN Jinglun
 <br /><br /> Any questions about this project, you can submit in the issue area or send an email to me.
 <br /><br /> Good luck in Year 3!
 <br /><br /> 
-<br /> <br />P.S. 
-<br /><br /> I have noticed that you have a new course called "Multimedia Fundamental" taught by Dr. Marie-Luce Bourguet from 2019/20.
-<br /><br /> So I would appreciate you could share resources of this course here.
+<br /><br /> I would appreciate you could share resources of this course here.
 
 
 
