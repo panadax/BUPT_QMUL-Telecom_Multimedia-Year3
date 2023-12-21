@@ -1,8 +1,8 @@
 # BUPT_QMUL-Telecom_Multimedia-Year3 
-BUPT Joint Programme with QMUL (2018/19)
+BUPT Joint Programme with QMUL (2023/24)
 
 ## Introduction:
-This repository is about the course resources in Year 3 for `Telecommunication with Management(Multimedia)` students.
+This repository is about the course resources in Year 3 for `Telecommunication with Management(Multimedia)` students, forked by the repo of panadax. It will also be of use for the students in `Electronic Information Engineering` because of  the course similarity of the two majors.
 
 ## Why This?
 I am devoted to establishing a platform to share resources which can help not make detours when previewing and reviewing courses.
@@ -10,22 +10,18 @@ I am devoted to establishing a platform to share resources which can help not ma
 <br /><br /> Plus, I also hope you who are going to Year 3 can make good use of it, and **DO NOT** offer this to the printing shop like "SHUGUANG"(曙光打印店).
 <br /><br /> This project aims to be **shared and nonprofit**. Thus, any commercial interests will violate original intention of our project.
 ## Course Lists：
-All compulsory and specialised elective courses in **2018/19**：
+All compulsory and specialised elective courses in **2023/24**：
 <br /> 
-- [x] `BBC4210` Electric and Magnetic Fields (Common)
-- [x] `BBU6404` Internet Applications (Common)
-- [x] `EBU5302` Telecommunications Systems (Common)
-- [x] `EBU5304` Software Engineering (Common)
-- [x] `EBU5305` Interactive Media Design and Production (Multimedia)
-- [x] `EBU5403` Internet Protocols (Common)
-- [x] `EBU5405` 3D Graphics Programming Tools (Multimedia)
+- [x] `BBC5210` Electric and Magnetic Fields (Common)
+- [ ] `BBU6404` Internet Applications (Common)
+- [ ] `EBU5304` Software Engineering (Common)
+- [ ] `EBU5305` Interactive Media Design and Production (Multimedia)
+- [ ] `EBU6230` Image and Video Processing (Multimedia)
 - [x] `EBU6018` Advanced Transform Methods (Multimedia)
-- [x] `EBU732U` Digital Broadcasting (Multimedia& CANCELLED)
-- [x] `3112100141` 通信原理 （中方公共必修课）
-- [x] `3112100430` 移动互联网 （中方公共专业选修课）
-- [x] `3112100780` Web搜索技术 （中方公共专业选修课）
-- [ ] `3132111060` 人工智能原理 （中方公共专业选修课）--未选，暂无资料，欢迎补充。
-- [ ] `3212120112` 电信市场竞争与规制 （中方公共专业选修课）--未选，暂无资料，欢迎补充。
+- [x] `BBU6302` Principles of Telecommunication Systems (Common)
+- [x] `CBU5201`	Machine Learning (Common)
+- [ ] `3112100170` 通信原理II （中方专业选修课）
+- [ ] `3212100010` 市场营销学 （中方专业选修课）
 
 ## What Could be Here?
 -  All official resources probvided by instructors: lecture notes, **past exam papers(greatly encouraged)** and other useful resources.
@@ -60,9 +56,7 @@ PAN Jinglun
 <br /><br /> Any questions about this project, you can submit in the issue area or send an email to me.
 <br /><br /> Good luck in Year 3!
 <br /><br /> 
-<br /> <br />P.S. 
-<br /><br /> I have noticed that you have a new course called "Multimedia Fundamental" taught by Dr. Marie-Luce Bourguet from 2019/20.
-<br /><br /> So I would appreciate you could share resources of this course here.
+<br /><br /> I would appreciate you could share resources of this course here.
 
 
 
@@ -71,3 +65,5 @@ PAN Jinglun
 (Sort by the commit time)
 
 @panadax
+
+@wuiyoooo
